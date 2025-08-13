@@ -19,9 +19,8 @@ Difficulty can be adjusted by changing the search depth, allowing for quick casu
 1. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/connect-four-ai.git
-  cd connect-four-ai
+   cd connect-four-ai
 
 ## 🏃 Run the game:
 python connect_four_ai.py
-# Run the game
-python connect_four_ai.py
+
